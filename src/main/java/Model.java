@@ -1,3 +1,7 @@
+/**
+ * Created by Andrii Kolomiiets on 03.04.2019
+ */
+
 public class Model {
 private String message;
 

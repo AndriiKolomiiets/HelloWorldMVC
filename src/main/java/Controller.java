@@ -1,10 +1,18 @@
 import java.util.Scanner;
 
+/**
+ * Created by Andrii Kolomiiets on 03.04.2019
+ */
 public class Controller {
     private final String FIRST_WORD = "Hello";
     private final String SECOND_WORD = "world!";
     private Model model;
     private View view;
+
+    /**
+     * Controller class process user input, verify it and call Class Model in case input is valid.
+     * Controller calls View Class in case user input isn't valid and for printing result after processing in Model Class.
+     */
 
     Controller(Model model, View view) {
         this.model = model;
