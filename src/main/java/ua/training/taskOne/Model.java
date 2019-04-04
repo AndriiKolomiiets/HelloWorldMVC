@@ -1,3 +1,5 @@
+package ua.training.taskOne;
+
 /**
  * Created by Andrii Kolomiiets on 03.04.2019
  */

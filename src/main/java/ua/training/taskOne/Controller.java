@@ -1,3 +1,5 @@
+package ua.training.taskOne;
+
 import java.util.Scanner;
 
 /**
